@@ -1,0 +1,5 @@
+{
+  "name": "Ching Finder",
+  "description": "Discover local restaurants that match the specific flavor profile of St. Louis Chinese classics using a specialized profile analyzer.",
+  "requestFramePermissions": []
+}
